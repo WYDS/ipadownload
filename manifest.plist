@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://103.219.30.80:8080/shouba_ios.ipa</string>
+					<string>https://github.com/WYDS/ipadownload/blob/master/shouba.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://103.219.30.80:8080/icon58.png</string>
+					<string>https://github.com/WYDS/ipadownload/blob/master/icon58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://103.219.30.80:8080/icon512.png</string>
+					<string>https://github.com/WYDS/ipadownload/blob/master/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
